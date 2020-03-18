@@ -13,6 +13,8 @@
   name: Party
 - key: pause
   name: Pause
+- key: workshop
+  name: Workshop
 - key: quickie
   name: Quickie
   id: f1f4eb00-ff40-57ea-805a-b3aa3ce5f6e6

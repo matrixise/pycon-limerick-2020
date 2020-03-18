@@ -11,8 +11,8 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
 
-## October 3rd, 2019
-### Pierre Baudis congress center
+## February 29th, 2020
+### Strand Hotel Limerick
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -26,23 +26,19 @@ menu:
 
 
 
-{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## What is DevFest Toulouse?
+{{% home-info what="Participants:90,Day:1,Sessions:21,Parallel Tracks:3" class="primary" %}}
+## What is PyCon Limerick?
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
+The Python community from around Ireland and beyond will come together to explore, share and inspire ideas, in Limerick City next February.
 {{% /home-info %}}
-
-
-{{< youtube-section link="AFhHrQIAw3g" title="Watch 2019 into" class="" >}}
 
 <!-- ... -->
 
 
-
 {{% home-speakers %}}
+<!--
 ## Featured Speakers
-
+-->
 <!--
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
@@ -58,12 +54,13 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
+<!--
 {{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
-
+-->
 <!-- ... -->
 
 <!--
@@ -105,22 +102,22 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    address="Ennis Rd, Limerick, V94 03F2, Ireland"
+    latitude="52.666306"
+    longitude="-8.6320289" %}}
 
 ## The venue
 
-### Centre de Congrès Pierre Baudis
+### Limerick Strand Hotel
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
-located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+The Limerick Strand Hotel is a modern place of exchange,
+located on a privileged location, in the immediate vicinity of the centre of Limerick.
 
 {{% /home-location %}}
 
 <!-- ... -->
 
+<!--
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
 ### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
@@ -131,9 +128,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 </a>
 
 {{% /album  %}}
-
-<!-- ... --> 
-
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
+-->
+{{% partners categories="gold" %}}
 ## Partners
 {{% /partners %}}

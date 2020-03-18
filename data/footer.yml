@@ -5,42 +5,42 @@ share:
     url: https://twitter.com/intent/tweet?text=
 
 follow:
-  - name: facebook
-    url: https://www.facebook.com/GDGToulouse/
+  # - name: facebook
+  #   url: https://www.facebook.com/GDGToulouse/
   - name: twitter
-    url: https://twitter.com/devfesttoulouse
-  - name: linkedin
-    url: https://www.linkedin.com/company/devfesttoulouse/
-  - name: youtube
-    url: https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg
+    url: https://twitter.com/pythonireland
+  # - name: linkedin
+  #   url: https://www.linkedin.com/company/devfesttoulouse/
+  # - name: youtube
+  #   url: https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg
 
 content:
   - title: footer_about
     links:
-      - name: GDG Toulouse
-        url: http://gdgtoulouse.fr/
+      - name: Python Ireland
+        url: https://python.ie/
         newTab: true
-      - name: Google Developers Group
-        url: https://developers.google.com/
-        newTab: true
-      - name: Kit de communication
-        url: /kit/MediaKit.zip
-        newTab:
-      - nameKey: footer_coc
-        url: /code-of-conduct/
-        newTab: false
+      # - name: Google Developers Group
+      #   url: https://developers.google.com/
+      #   newTab: true
+      # - name: Kit de communication
+      #   url: /kit/MediaKit.zip
+      #   newTab:
+      # - nameKey: footer_coc
+      #   url: /code-of-conduct/
+      #   newTab: false
 
-  - title: footer_previous_edition
-    links:
-      - name: DevFest Toulouse 2018
-        url: https://2018.devfesttoulouse.fr/
-        newTab: true
-      - name: DevFest Toulouse 2017
-        url: https://2017.devfesttoulouse.fr/
-        newTab: true
-      - name: DevFest Toulouse 2016
-        url: https://2016.devfesttoulouse.fr/
-        newTab: true
+  # - title: footer_previous_edition
+  #   links:
+  #     - name: DevFest Toulouse 2018
+  #       url: https://2018.devfesttoulouse.fr/
+  #       newTab: true
+  #     - name: DevFest Toulouse 2017
+  #       url: https://2017.devfesttoulouse.fr/
+  #       newTab: true
+  #     - name: DevFest Toulouse 2016
+  #       url: https://2016.devfesttoulouse.fr/
+  #       newTab: true
 
 #  - title: footer_become_partners
 #    links:

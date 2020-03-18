@@ -10,14 +10,14 @@
   label: Cenareo
   description: Office-hours
 - key: room1
-  label: Stack Labs
-  description: St-Exupéry
+  label: Room 1
+  description: Harris Suite
 - key: room2
-  label: Airbus
-  description: Cassiopée
+  label: Room 2
+  description: Woogan Suite
 - key: room3
-  label: SII
-  description: Ariane
-- key: room4
-  label: Capgemini
-  description: Guillaumet
+  label: Room 3
+  description: O'Brien Suite
+- key: workshop1
+  label: Workshop 1
+  description: Henihan Suite
